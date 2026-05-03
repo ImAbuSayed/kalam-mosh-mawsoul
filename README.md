@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك في الليالي
+> روحي تشتاق إليك يا غالي
+> بين عينيك أرى كل آمالي
+> نور عشقك دائم في خيالي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
