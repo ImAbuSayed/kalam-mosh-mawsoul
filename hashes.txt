@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kalam Mosh Mawsoul
+
+This log tracks the cryptographic history and versioning for the song **Kalam Mosh Mawsoul** (kalam-mosh-mawsoul).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:29:47.066253 | `v1` | `8448ec196d2e44f21e8cc23ee6b0fb57f5a7c094134e746d47815b88b92d3c4b` | `b2fc34dbdc2076e0e1a3c33565bf70e54fc296192f64f894597e8f93cb1e0b99` | `2026-05-08_kalam-mosh-mawsoul-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
